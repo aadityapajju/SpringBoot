@@ -21,17 +21,8 @@ public class RunnersApplication {
 
 		SpringApplication.run(RunnersApplication.class, args);
 
-		/*@Bean
-		CommandLineRunner runner() {
-			return args → {
-				Run Run = new Run(1, "1st run",
-						LocalDateTime.now(),
-						LocalDateTime.now().plus(1, ChronoUnit.HOURS),
-						5, Location.OUTDOOR);
-			}
-		}
+
 			//log.info("app started");
-			*/
 
 
 
