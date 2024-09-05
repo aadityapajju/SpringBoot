@@ -6,12 +6,12 @@
    
    **REST API Testing** - Postman, Http Client (IntelliJ), curl / HTTPie
 
-   **Database** - H2 Database, JDBC Client (Keep it simple)
+   **Database** - H2 Database, JDBC Client (Keep it simple) - **In Progress,**
       Command Line Runner : Loading JSON data
       Docker Compose & PostgreSQL
       Spring Data
    
-   **Testing** - Spring Boot Testing Toolkit ,
+   **Testing** - Spring Boot Testing Toolkit ,        **In Progress,**
        contextLoads() test - @SpringBootTest annotation, Documentation
        Writing Tests - InMemoryRunRepositoryTest, RunControllerTest, RunControllerIntTest, 
        Spring Boot Slice Tests  - JDBCRunRepositoryTest
